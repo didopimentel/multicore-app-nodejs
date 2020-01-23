@@ -1,0 +1,14 @@
+{
+  "name": "multicore-app-nodejs",
+  "version": "1.0.0",
+  "description": "An application that simulates the creation of child processes to handle CPU-intensive tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
